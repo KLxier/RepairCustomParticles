@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "修复部分服务器无法使用自定义材质包粒子的问题\n§l§c注意!!! 本包无法直接兼容其他材质包!!!\n§r§fBy §bKLxier",
+        "name": "RepairCustomParticles",
+        "uuid": "251d925f-1689-42b1-81d9-8ccbe1780162",
+        "version": [1, 0, 0]
+    },
+    "modules": [
+        {
+            "description":"§bKLXIER",
+            "type": "resources",
+            "uuid": "2af1ddd6-c2a1-4a42-bb83-1d65e5f6c265",
+            "version": [1, 0, 0]
+        }
+    ]
+}
